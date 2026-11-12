@@ -2,7 +2,7 @@
 
 A small Kotlin/Android learning app: add a task, mark it complete and remove completed tasks. The UI uses RecyclerView and an in-memory list.
 
-Earlier mobile development work · [Current software engineering portfolio](https://amenibensaadaportfolio.netlify.app/?utm_source=github&utm_medium=profile&utm_campaign=personal_brand).
+Earlier mobile development work · [Current software engineering portfolio](https://amenibensaada.tn/?utm_source=github&utm_medium=profile&utm_campaign=personal_brand).
 
 ## Explore and run
 
